@@ -8,7 +8,7 @@
 
 - **[2025/11]** – Added **V1 backend** (beta) for next-generation scheduling and serving.
 - **[2025/10]** – Open-sourced ElasticMM with full support for the **vLLM V0 backend**.
-- **[2025/09]** – Our paper *ElasticMM* was accepted as an **Oral** presentation at **NeurIPS 2025**.
+- **[2025/09]** – Our paper *ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism* was accepted as an **Oral** presentation at **NeurIPS 2025**.
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
