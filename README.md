@@ -4,6 +4,8 @@
   <img src="assets/elasticmm-logo.svg" alt="ElasticMM Logo" width="420" />
 </p>
 
+ElasticMM is a high-performance framework for serving large multimodal language models with elastic resource allocation and intelligent load balancing. It implements the Elastic Multimodal Parallelism (EMP) framework to optimize resource utilization and system throughput for both text-only and multimodal inference workloads.
+
 ## Latest News 🔥
 
 - **[2025/11]** – Added **V1 backend** (beta) for next-generation scheduling and serving.
@@ -14,8 +16,6 @@
 [![License](https://img.shields.io/badge/license-Apache%202.0-green.svg)](https://opensource.org/licenses/Apache-2.0)
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)](https://github.com/elasticmm/elasticmm)
 [![Documentation](https://img.shields.io/badge/docs-latest-blue.svg)](https://elasticmm.readthedocs.io/)
-
-ElasticMM is a high-performance framework for serving large multimodal language models with elastic resource allocation and intelligent load balancing. It implements the Elastic Multimodal Parallelism (EMP) framework to optimize resource utilization and system throughput for both text-only and multimodal inference workloads.
 
 ## 🚀 Key Features
 
