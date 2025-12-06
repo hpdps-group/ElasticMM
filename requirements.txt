@@ -1,6 +1,6 @@
 # Core dependencies (required versions)
 ray>=2.8.0
-vllm>=0.10.0
+vllm>=0.10.1
 torch>=2.0.0
 transformers>=4.35.0
 
