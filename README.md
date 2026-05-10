@@ -8,7 +8,7 @@ ElasticMM is an efficient and scalable serving system for large multimodal model
 
 ## Latest News 🔥
 
-- **[2025/11]** – Added **V1 backend** (beta) for next-generation scheduling and serving.
+- **[2025/11]** – Added **vLLM V1 backend** (beta) for next-generation scheduling and serving.
 - **[2025/10]** – Open-sourced ElasticMM with full support for the **vLLM V0 backend**.
 - **[2025/09]** – Our paper *ElasticMM: Efficient Multimodal LLMs Serving with Elastic Multimodal Parallelism* was accepted as an **Oral** presentation at **NeurIPS 2025**.
 
